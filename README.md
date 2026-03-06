@@ -1,4 +1,4 @@
-# Cascading Merge
+# Cascading Merge3
 
 This is a trial repository for testing cascading merge within a git repo. It uses the [Cascading Auto-Merge Action](https://github.com/marketplace/actions/cascading-auto-merge-action) to automatically merge changes from lower release branches into higher ones based on semantic versioning, similar to [Bitbucket's Automatic Branch Merging](https://confluence.atlassian.com/bitbucketserver/automatic-branch-merging-776639993.html).
 
